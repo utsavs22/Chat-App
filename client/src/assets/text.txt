@@ -1,0 +1,7 @@
+background-color: #121212;
+
+
+lgt bg: #1E1E1E
+
+redmain: f13542
+red2: #d52834
