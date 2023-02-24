@@ -14,13 +14,13 @@
 ## Screenshots 
 
 
-|      Admin DashBoard        |   Retro Zone   |
+|      Home Page        |   Login Page   |
 | :--------------------: | :---------------------: |
-| <img src="https://i.postimg.cc/L502KqPw/1111.png" alt="admindash" border="0" > | <img src="https://i.postimg.cc/q7LfHhVw/3333.png" border="0" width=500> |
+| <img src="https://i.ibb.co/cyXJZnk/Screenshot-2023-02-25-010427.png" alt="home" border="0" > | <img src="https://i.ibb.co/59NzN31/Screenshot-2023-02-25-005855.png" border="0" width=500> |
 
-|     Admin NFT Page       
+|     SignUp Page       
 | :--------------------: | 
-| <img src="https://i.postimg.cc/zfqM7zbg/2222.png" alt="nftpage" border="0" width=400> | 
+| <img src="https://i.ibb.co/Fsy2yqZ/Screenshot-2023-02-25-010543.png" alt="signup" border="0" width=400> | 
 
 
 ## Table of Contents
