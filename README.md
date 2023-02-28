@@ -31,7 +31,7 @@
 ## TechStack
 
 1. Front End / Client Side
-    - *ReactJS, CSS and styled components
+    - *ReactJS, CSS and styled components*
 
 2. BackEnd Server:
    - *NodeJS, Express*
