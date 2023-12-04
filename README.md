@@ -114,8 +114,8 @@ Start frontend server
 
 #### Local Url for Server:
 
-- Frontend is running on http://localhost:3000 
-- Backend is running on http://localhost:8000 
+- Frontend : http://localhost:3000 
+- Backend : http://localhost:8000 
 
 
 
