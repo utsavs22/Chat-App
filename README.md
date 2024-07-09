@@ -1,4 +1,4 @@
-##### By "*Saishwar Anand*"
+##### By "*Utsav Sinha*"
 
 #  ChatOP 💬💻📨
 
@@ -6,21 +6,9 @@
 
 * Implementation of sockets using the socket.io package integrated within this app 🟡.
 
-* Bit offensive store tackles this problem by Decentralizing the entire system of **warranty ownership and claim**.
-
 * Implementation of protected routes and other authentications via jwt are involved in this project as well.
 
 
-## Screenshots 
-
-
-|      Home Page        |   Login Page   |
-| :--------------------: | :---------------------: |
-| <img src="https://i.ibb.co/cyXJZnk/Screenshot-2023-02-25-010427.png" alt="home" border="0" > | <img src="https://i.ibb.co/59NzN31/Screenshot-2023-02-25-005855.png" border="0" width=500> |
-
-|     SignUp Page       
-| :--------------------: | 
-| <img src="https://i.ibb.co/Fsy2yqZ/Screenshot-2023-02-25-010543.png" alt="signup" border="0" width=400> | 
 
 
 ## Table of Contents
@@ -59,7 +47,7 @@
 ### Clone the project:
 
 ```bash
-  git clone https://github.com/saianand32/ChatOP.git
+  git clone https://github.com/utsavs22/ChatOP.git
 
 ```
 
@@ -75,7 +63,7 @@ Go to the project directory
 Go to backend folder
 
 ```bash
-  cd server
+  cd backend
 ```
 #### Backend:
 
@@ -95,10 +83,10 @@ Run Backend
 
 **Frontend Server:**
 
-Go to client folder
+Go to frontend folder
 
 ```bash
- cd client
+ cd frontend
 ```
 
 Install all dependencies
@@ -122,7 +110,7 @@ Start frontend server
 
 
 ## Author
-  > [Saishwar Anand](https://github.com/saianand32)
+  > [Utsav Sinha](https://github.com/utsavs22)
  
 ##### Made with perseverance and love by
-####  *Saishwar Anand* ❤️
+####  *Utsav Sinha* ❤️

@@ -44,7 +44,7 @@ function Signup() {
       return false;
     }
     else if (password !== confirmpassword) {
-      toast.error("confirmpassword and password did not match", toastOptions);
+      toast.error("confirm password and password did not match", toastOptions);
       return false;
     }
     else return true;
