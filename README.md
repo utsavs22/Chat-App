@@ -47,7 +47,7 @@
 ### Clone the project:
 
 ```bash
-  git clone https://github.com/utsavs22/ChatOP.git
+  git clone https://github.com/utsavs22/Chat-App.git
 
 ```
 
